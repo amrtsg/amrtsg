@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 Welcome to my GitHub, I have created repositories for projects that I have been working on for fun!
 Take a look around!
 
-- 🔭 I’m currently developing a 3D Game engine using C++
+- 🔭 I’m currently working on a 3D Graphics engine using C++ & OpenGL
 - 🌱 I’m currently learning Computer Graphics
 
 Let me know if you find any mistakes in my projects, or if I can improve on anything!
