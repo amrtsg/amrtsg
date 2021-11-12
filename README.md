@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Welcome to my GitHub, I have created repositories for projects that I have been working on for fun!
+Take a look around!
+
+- 🔭 I’m currently developing a 3D Game engine using C++
+- 🌱 I’m currently learning Computer Graphics
+
+Let me know if you find any mistakes in my projects, or if I can improve on anything!
